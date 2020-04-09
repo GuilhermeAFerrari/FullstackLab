@@ -1,0 +1,8 @@
+: NEXT.JS
+    -Zeit (empresa ciradora do Next.js)
+
+    -SSR: Server-side rendering
+    -APIs: Prover fonte de dados
+
+    -Apps estáticos: React normais (create-react-app)
+    -Sites gerados estaticamente: gatsby
